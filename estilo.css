@@ -1,0 +1,20 @@
+a { 
+    color:white;
+}
+
+a:hover{
+    color:lightcoral;
+}
+
+th{
+    color:lime;
+}
+
+body{
+    background-color: darkgray;
+}
+table{
+    border-style:solid;
+    border-color:black;
+    text-align: center;
+}
